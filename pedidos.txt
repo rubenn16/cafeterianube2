@@ -1,3 +1,5 @@
 PEDIDOS EN LINEA
 Cliente: 3
 Pedido: Pizza 
+Cliente: 2
+Pedido: Arroz
